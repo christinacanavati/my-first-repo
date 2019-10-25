@@ -1,28 +1,19 @@
-# This is a large heading
+#Christina Canavati 
 
-## This is a smaller heading
+### A little about myself
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+- I live in Bethlehem, Palestine. 
+- I am a molecular geneticist
+- I am looking forward to become a bioinformatician 
 
-- This is
-- an unordered
-- list
+### Food 
 
-1. This is
-2. an ordered
-3. list
+Last night I dreamt about eating in two different restaurants:
 
-Here is `some code` in the middle of a sentence.
+1. Zest in ***Ramallah***
+2. Kalamar in *Haifa* 
+3. Markos in Cyprus
 
-```
-This is
-a block
-of code
-```
+### Contact 
 
-Here is how you make [a link](https://www.wikipedia.org/).
-
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+The best way to contact me is on [instagram](https://christinacanavati.com)
